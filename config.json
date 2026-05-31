@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsarse",
+        "uuid": 10301906,
+        "checksum": "bakrtb"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
